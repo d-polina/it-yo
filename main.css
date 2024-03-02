@@ -1,0 +1,86 @@
+body {
+    background: #202020;
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+}
+
+h1 {
+    color: #eee;
+    text-align: center;
+    padding-top: 90px;
+}
+h2 {
+    color: #eeeeeede;
+    text-align: center;
+    padding-top: 80px;
+}
+h3 {
+    color: #eeeeeeae;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.header {
+    background: #181818;
+    color: #ff6a00;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.header-block-title > h3 {
+    text-align: center;
+    color: #ff6a00;
+    padding-top: 0;
+}
+
+.example-text {
+    color:#eeeeee6a;
+}
+
+.menu-nav-title > h3 {
+    text-align: center;
+    margin-top: 50px;
+    color: #eee;
+}
+
+.nav-main-title a {
+    color: #ff6a00;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.nav-main-subtitle a {
+    color: #f6a063;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-main-subsubtitle a {
+    color: #ffcfacdd;
+    text-decoration: none;
+    font-size: 18px;
+    
+}
+
+.menu > .nav {
+    margin-left: 37%;
+}
+
+.menu > .nav > ul {
+    list-style-type: none;
+}
+.menu > .nav > ul  ul   {
+    list-style-type: none;
+}
+
+.menu > .nav > ul > li {
+    padding-bottom: 20px;
+}
+
+.menu-nav-li-first {
+    padding-top: 20px;
+}
+
+.main {
+    padding-bottom: 90px;
+}
